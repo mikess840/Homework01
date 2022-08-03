@@ -7,7 +7,7 @@ public class Homework {
         markiz.howOldCat();
         markiz.sayName();
         markiz.isHappy();
-
+        YsoSerious.YsoSerious();
     }
 
 }
